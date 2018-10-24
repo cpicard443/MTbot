@@ -1,5 +1,5 @@
 from random import *
-
+#annexe compte est bon
 def compteBon():
     nbTuiles = 6
     
